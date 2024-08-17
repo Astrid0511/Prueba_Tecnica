@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\services\\iinscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\services\\iinscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\services\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\services\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|c:\\users\\astrid.nino\\source\\repos\\btgapi\\btgapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9986B089-5DDE-46C0-8C8D-D060D598D10B}|BTGApi\\BTGApi.csproj|solutionrelative:btgapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\ProductoService.cs",
+              "RelativeToolTip": "BTGApi\\Services\\ProductoService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:20:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "BTGApi\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:19:27.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInscripcionService.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\IInscripcionService.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Services\\IInscripcionService.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\IInscripcionService.cs",
+              "RelativeToolTip": "BTGApi\\Services\\IInscripcionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:14:07.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\IProductoService.cs",
+              "RelativeToolTip": "BTGApi\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:13:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InscripcionService.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\InscripcionService.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Services\\InscripcionService.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\InscripcionService.cs",
+              "RelativeToolTip": "BTGApi\\Services\\InscripcionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:02:15.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Services\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\IClienteService.cs",
+              "RelativeToolTip": "BTGApi\\Services\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:01:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Models\\Cliente.cs",
+              "RelativeToolTip": "BTGApi\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T01:56:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Services\\ClienteService.cs",
+              "RelativeToolTip": "BTGApi\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T01:55:28.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Program.cs",
+              "RelativeDocumentMoniker": "BTGApi\\Program.cs",
+              "ToolTip": "C:\\Users\\astrid.nino\\source\\repos\\BTGApi\\BTGApi\\Program.cs*",
+              "RelativeToolTip": "BTGApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:20:55.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
